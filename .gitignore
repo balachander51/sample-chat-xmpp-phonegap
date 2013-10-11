@@ -1,6 +1,15 @@
+<<<<<<< HEAD
 *.mode1v3
 *.perspectivev3
 *.pbxuser
 .DS_Store
 build
 www/phonegap.js
+=======
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+>>>>>>> 1e0aa77eb2b6b9f96be0628b8ad4103015e4fccb
